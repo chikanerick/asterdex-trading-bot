@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Account1",
+    "api_key": "ВАШ_API_KEY_1",
+    "api_secret": "ВАШ_API_SECRET_1"
+  },
+  {
+    "name": "Account2",
+    "api_key": "ВАШ_API_KEY_2",
+    "api_secret": "ВАШ_API_SECRET_2"
+  },
+  {
+    "name": "Account3",
+    "api_key": "ВАШ_API_KEY_3",
+    "api_secret": "ВАШ_API_SECRET_3"
+  }
+]
